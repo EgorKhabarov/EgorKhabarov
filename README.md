@@ -34,16 +34,5 @@
 
 ### My stats:
 
-<picture id="GitHub-stats">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=EgorKhabarov&show=prs_merged,prs_merged_percentage&show_icons=true&hide_border=true&theme=dark"/>
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=EgorKhabarov&show=prs_merged,prs_merged_percentage&show_icons=true"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=EgorKhabarov&show=prs_merged,prs_merged_percentage&show_icons=true"/>
-</picture>
-
-<br>
-
-<picture id="top-langs">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EgorKhabarov&layout=compact&hide_border=true&theme=dark"/>
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EgorKhabarov&layout=compact"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgorKhabarov&layout=compact"/>
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=EgorKhabarov&show=prs_merged,prs_merged_percentage&show_icons=true&hide_border=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgorKhabarov&layout=compact&hide_border=true&theme=dark"/>
