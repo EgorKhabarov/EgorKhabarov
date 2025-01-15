@@ -16,23 +16,23 @@
 ### Languages and Tools:
 
 <div id="languages" align="left">
-  <img       title="python"     alt="python"     width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original-wordmark.svg"/>
-  &nbsp;<img title="flask"      alt="flask"      width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/flask/flask-original-wordmark.svg"/>
-  &nbsp;<img title="fastapi"    alt="fastapi"    width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/fastapi/fastapi-original-wordmark.svg"/>
-  &nbsp;<img title="sqlite"     alt="sqlite"     width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original-wordmark.svg"/>
-  &nbsp;<img title="postgresql" alt="postgresql" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original-wordmark.svg"/>
-  &nbsp;<img title="sqlalchemy" alt="sqlalchemy" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg"/>
-  &nbsp;<img title="pytest"     alt="pytest"     width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pytest/pytest-original-wordmark.svg"/>
-  &nbsp;<img title="git"        alt="git"        width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-plain-wordmark.svg"/>
-  &nbsp;<img title="docker"     alt="docker"     width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original-wordmark.svg"/>
-  &nbsp;<img title="postman"    alt="postman"    width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postman/postman-original-wordmark.svg"/>
-  &nbsp;<img title="java"       alt="java"       width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original-wordmark.svg"/>
-  &nbsp;<img title="linux"      alt="linux"      width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg"/>
+  <a href="https://python.org">                          <img title="python"     alt="python"     width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original-wordmark.svg"/></a>
+  <a href="https://palletsprojects.com/projects/flask/"> <img title="flask"      alt="flask"      width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/flask/flask-original-wordmark.svg"/></a>
+  <a href="https://fastapi.tiangolo.com/">               <img title="fastapi"    alt="fastapi"    width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/fastapi/fastapi-original-wordmark.svg"/></a>
+  <a href="https://www.sqlite.org/">                     <img title="sqlite"     alt="sqlite"     width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original-wordmark.svg"/></a>
+  <a href="https://www.postgresql.org/">                 <img title="postgresql" alt="postgresql" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original-wordmark.svg"/></a>
+  <a href="https://www.sqlalchemy.org/">                 <img title="sqlalchemy" alt="sqlalchemy" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg"/></a>
+  <a href="https://docs.pytest.org/en/stable/">          <img title="pytest"     alt="pytest"     width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pytest/pytest-original-wordmark.svg"/></a>
+  <a href="https://git-scm.com/">                        <img title="git"        alt="git"        width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-plain-wordmark.svg"/></a>
+  <a href="https://www.docker.com/">                     <img title="docker"     alt="docker"     width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original-wordmark.svg"/></a>
+  <a href="https://www.postman.com/">                    <img title="postman"    alt="postman"    width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postman/postman-original-wordmark.svg"/></a>
+  <a href="https://www.java.com/">                       <img title="java"       alt="java"       width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original-wordmark.svg"/></a>
+  <a href="https://www.linuxfoundation.org/">            <img title="linux"      alt="linux"      width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg"/></a>
 </div>
 
 ---
 
 ### My stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=EgorKhabarov&show=prs_merged,prs_merged_percentage&show_icons=true&hide_border=true&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgorKhabarov&layout=compact&hide_border=true&theme=dark"/>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=EgorKhabarov&show=prs_merged,prs_merged_percentage&show_icons=true&hide_border=true&theme=dark"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgorKhabarov&layout=compact&hide_border=true&theme=dark"/></a>
