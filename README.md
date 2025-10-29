@@ -17,6 +17,7 @@
 
 <div id="languages" align="left">
   <a target="_blank" href="https://python.org">                          <img title="python"     alt="python"     width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original-wordmark.svg"/></a>
+  <a target="_blank" href="https://www.java.com/">                       <img title="java"       alt="java"       width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original-wordmark.svg"/></a>
   <a target="_blank" href="https://palletsprojects.com/projects/flask/"> <img title="flask"      alt="flask"      width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/flask/flask-original-wordmark.svg"/></a>
   <a target="_blank" href="https://fastapi.tiangolo.com/">               <img title="fastapi"    alt="fastapi"    width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/fastapi/fastapi-original-wordmark.svg"/></a>
   <a target="_blank" href="https://www.sqlite.org/">                     <img title="sqlite"     alt="sqlite"     width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original-wordmark.svg"/></a>
@@ -26,7 +27,6 @@
   <a target="_blank" href="https://git-scm.com/">                        <img title="git"        alt="git"        width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-plain-wordmark.svg"/></a>
   <a target="_blank" href="https://www.docker.com/">                     <img title="docker"     alt="docker"     width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original-wordmark.svg"/></a>
   <a target="_blank" href="https://www.postman.com/">                    <img title="postman"    alt="postman"    width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postman/postman-original-wordmark.svg"/></a>
-  <a target="_blank" href="https://www.java.com/">                       <img title="java"       alt="java"       width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original-wordmark.svg"/></a>
   <a target="_blank" href="https://www.linuxfoundation.org/">            <img title="linux"      alt="linux"      width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg"/></a>
 </div>
 
