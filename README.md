@@ -35,7 +35,10 @@
 ### My stats:
 
 <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="
+    <img src="https://github-readme-stats.vercel.app/api?username=EgorKhabarov&show=prs_merged,prs_merged_percentage&show_icons=true&hide_border=true&theme=dark&rank_icon=github&include_all_commits=true&count_private=true"/>
+</a>
+
+<!--
 https://github-readme-stats.vercel.app/api
 ?username=EgorKhabarov
 &show=prs_merged,prs_merged_percentage
@@ -45,20 +48,20 @@ https://github-readme-stats.vercel.app/api
 &rank_icon=github
 &include_all_commits=true
 &count_private=true
-    "/>
-</a>
+-->
 
 <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EgorKhabarov&layout=compact&hide_border=true&theme=dark&hide=html"/>
+</a>
+
+<!--
 https://github-readme-stats.vercel.app/api/top-langs
 ?username=EgorKhabarov
 &layout=compact
 &hide_border=true
 &theme=dark
 &hide=html
-    "/>
-</a>
-<!--
+----------------------------------------------------
 &hide_title=true
 &hide=html
 &exclude_repo=EgorKhabarov.github.io
